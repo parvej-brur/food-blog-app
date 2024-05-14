@@ -15,6 +15,7 @@ function Footer() {
         <FaYoutube />
         <CiTwitter />
       </div>
+      <p>&copy; 2024 powered by anika.</p>
     </div>
   );
 }
